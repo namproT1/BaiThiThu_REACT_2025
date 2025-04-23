@@ -1,0 +1,28 @@
+{
+  "XeMay": [
+    {
+      "id": "1",
+      "ten_xe_ph1234": "Honda Wave Alpha",
+      "mau_sac_ph1234": "Đỏ",
+      "gia_ban_ph1234": 18000000,
+      "mo_ta_ph1234": "Xe số phổ thông, tiết kiệm xăng",
+      "hinh_anh_ph1234": "https://up.yimg.com/ib/th?id=OIP.znxxC4rcaRbJRubYm5xntwHaE8&pid=Api&rs=1&c=1&qlt=95&w=158&h=105"
+    },
+    {
+      "id": "c96e",
+      "ten_xe_ph1234": "fff",
+      "mau_sac_ph1234": "gg",
+      "gia_ban_ph1234": 2,
+      "mo_ta_ph1234": "T",
+      "hinh_anh_ph1234": "file:///data/user/0/com.dethithu/cache/rn_image_picker_lib_temp_25c20d85-dbc9-43e1-89ba-e6c8515cdbe7.jpg"
+    },
+    {
+      "id": "6395",
+      "ten_xe_ph1234": "Rt",
+      "mau_sac_ph1234": "ad",
+      "gia_ban_ph1234": 5,
+      "mo_ta_ph1234": "G",
+      "hinh_anh_ph1234": "file:///data/user/0/com.dethithu/cache/rn_image_picker_lib_temp_4bdf5a2b-c006-485a-908d-79ae673e5fbd.jpg"
+    }
+  ]
+}
